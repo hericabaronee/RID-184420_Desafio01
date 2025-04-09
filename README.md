@@ -1,34 +1,28 @@
-# RID184420_Desafio01 - Blog Responsivo link -
+# 📝 Blog Responsivo - Desafio 01
 
-Este projeto é um blog responsivo desenvolvido como parte do **Desafio 01** da formação. O layout se adapta para diferentes tamanhos de tela (desktop, tablet e mobile), garantindo uma boa experiência de navegação em qualquer dispositivo.
 
----
+## 🚀 Como visualizar
 
-## ✅ Funcionalidades
+Acesse o projeto online aqui:  
+👉 https://hericabaronee.github.io/RID-184420_Desafio01/
 
-- Layout responsivo com HTML e CSS puro
-- Imagem principal (banner) ajustada para dispositivos móveis
-- Cards com posts recentes
-- Seção de posts populares
-- Sidebar com categorias
+Este projeto é um blog responsivo desenvolvido como parte do Desafio 01 da formação.
 
----
 
-## 💻 Tecnologias utilizadas
+
+## 📌 Tecnologias utilizadas
 
 - HTML5
 - CSS3
-- Responsividade com media queries
+- Git & GitHub
+
+## 📁 Estrutura do projeto
+
+- `index.html`: Página principal do blog
+- `style.css`: Estilo e responsividade
+- `imagens.svg/`: Pastas com ícones e imagens usadas no layout
 
 ---
 
-## 📱 Layout responsivo
-
-O blog foi projetado para se adaptar a:
-- 💻 Desktop
-- 📱 Celulares
-- 📲 Tablets
-
----
-
+Desenvolvido por **Herica Barone**
 
